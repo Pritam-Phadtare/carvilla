@@ -1,4 +1,4 @@
-name: Deploy to EC2 with Docker  ### Demo
+name: Deploy to EC2 with Docker 
 
 on:
   push:
